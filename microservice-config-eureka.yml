@@ -22,7 +22,7 @@ eureka:
   server:
     enable-self-preservation: false #禁用自我保护
 
-    ---
+---
 
 server:
   port: 6001  #端口号
